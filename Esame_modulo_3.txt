@@ -1,0 +1,5 @@
+L'indagine è stata incentrata sui dati statisticamente rilevanti, al fine di comprendere qual è la miglior combinazione vincete di testo, brano e presentazione (duetto); insieme alle informazioni principali sulla competizione.
+I dati sono stati ricavati da wikipedia, google trends e Spotify; sono stati elaborati in Excel tramite power query, facendo webscraping oppure scaricando direttamente dal sito le informazioni necessarie.
+
+Di seguito il link per accedere alla presentazione:
+https://lookerstudio.google.com/reporting/8fa43c63-5244-4fb8-8212-27bba6336677
