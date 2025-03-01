@@ -2,4 +2,4 @@ L'indagine è stata incentrata sui dati statisticamente rilevanti, al fine di co
 I dati sono stati ricavati da wikipedia, google trends e Spotify; sono stati elaborati in Excel tramite power query, facendo webscraping oppure scaricando direttamente dal sito le informazioni necessarie.
 
 Di seguito il link per accedere alla presentazione:
-https://lookerstudio.google.com/reporting/8fa43c63-5244-4fb8-8212-27bba6336677
+https://lookerstudio.google.com/s/jtZBQjSVanw
