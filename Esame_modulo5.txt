@@ -1,0 +1,11 @@
+https://drive.google.com/file/d/1jmxP9l1hgYgTvQr42hvuSJwByMfje4Mx/view?usp=drive_link
+
+Il report si suddivide in 5 schede, contenenti:
+
+1)Analisi ordini: i grafici rappresentano il numero di ordini totali, confrontandoli con l'anno precedente; numero di ordini confrontato con il mese precedente, che mostra l'andamento degli ordini; il numero di ordini per stato.
+
+2)Analisi ricavi: i grafici sono strutturati come in slide 1, ma mostrano l'andamento dei ricavi.
+
+3)Analisi categorie: i grafici rappresentano le categorie confrontando il numero di ordini VS i ricavi e le categorie con ricavi e punteggio medio di gradimento
+
+4)Analisi rating: i grafici mostrano il punteggio medio delle review per mese VS il ritardo di consegna in giorni (andamento inverso), punteggio medio per categoria e punteggio medio per stato
